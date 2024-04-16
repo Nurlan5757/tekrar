@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\bin\Debug\net6.0\Praktika.exe
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\bin\Debug\net6.0\Praktika.deps.json
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\bin\Debug\net6.0\Praktika.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\bin\Debug\net6.0\Praktika.dll
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\bin\Debug\net6.0\Praktika.pdb
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.dll
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\refint\Praktika.dll
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.pdb
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\Praktika.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Praktika\Praktika\obj\Debug\net6.0\ref\Praktika.dll

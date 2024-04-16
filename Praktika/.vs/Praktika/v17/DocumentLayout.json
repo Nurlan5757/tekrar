@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BA300-B4BB-4EDC-B445-88D582DA02E0}|Praktika\\Praktika.csproj|c:\\users\\hp\\onedrive\\desktop\\praktika\\praktika\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BA300-B4BB-4EDC-B445-88D582DA02E0}|Praktika\\Praktika.csproj|solutionrelative:praktika\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BA300-B4BB-4EDC-B445-88D582DA02E0}|Praktika\\Praktika.csproj|c:\\users\\hp\\onedrive\\desktop\\praktika\\praktika\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BA300-B4BB-4EDC-B445-88D582DA02E0}|Praktika\\Praktika.csproj|solutionrelative:praktika\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8BA300-B4BB-4EDC-B445-88D582DA02E0}|Praktika\\Praktika.csproj|c:\\users\\hp\\onedrive\\desktop\\praktika\\praktika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8BA300-B4BB-4EDC-B445-88D582DA02E0}|Praktika\\Praktika.csproj|solutionrelative:praktika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\Praktika\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Praktika\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\Praktika\\Models\\Library.cs",
+              "RelativeToolTip": "Praktika\\Models\\Library.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:28:59.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\Praktika\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Praktika\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\Praktika\\Models\\Book.cs",
+              "RelativeToolTip": "Praktika\\Models\\Book.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:28:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\Praktika\\Program.cs",
+              "RelativeDocumentMoniker": "Praktika\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Praktika\\Praktika\\Program.cs",
+              "RelativeToolTip": "Praktika\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:27:56.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
